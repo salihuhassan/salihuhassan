@@ -1,0 +1,413 @@
+
+header{
+background-color: rgba(245, 245, 245, 0.542);
+height: auto;
+margin: 10px 0px;
+}
+#head{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    al
+}
+.box{
+    padding: 0px 260px;
+}
+.box a{
+    padding: 0 20px;
+}
+.fa-solid{
+    color: red;
+}
+.int{
+    background-color: red;
+    border: solid 20px none;
+    border-radius: 5px;
+    padding: 6px 20px;
+    border: none;
+}
+.int:hover{
+    background-color: whitesmoke;
+    color: red;
+}
+.int22{
+    border: none;
+    padding: 6px 20px; 
+}
+.int22:hover{
+    background-color: whitesmoke;
+    color: red;
+ 
+}
+
+#box2{
+    width: 97%;
+    display: flex;
+    padding: 20px;
+    margin: 5px 0px;
+    background-color: rgb(245, 245, 245);
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.63);
+
+}
+.buta{
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 20px;
+    font-weight: 800;
+}
+.buta:hover{
+    background-color: azure;
+    color: green;
+}
+#site{
+    width: 45%;
+    height: auto;
+}
+#site .btn{
+   display: flex;
+}
+.site3{
+    width: 97%;
+    height: 50vh;
+    padding: 0 140px;
+    border-radius:15px;
+
+
+}
+#box3{
+    width: 100%;
+    height: auto;
+    margin: 30px 0px;
+    background-color: whitesmoke;
+
+}
+h5{
+    color: red;
+}
+.fa-sharp1 {
+padding: 0 90px;
+}
+#san{
+    display: flex;
+    margin: 5px 0px;
+
+}
+
+.box33{
+    width: 30%;
+    height: auto;
+    line-height:0px;
+    font-size: 20px;
+    padding: 0 19px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.63);
+
+margin: 5px 10px;
+}
+
+#box44{
+    display: flex;
+    margin: 5px 0px; 
+background-color: whitesmoke;
+box-shadow: 2px 3px 10px rgba(0, 0, 255, 0.63);
+
+}
+#site42{
+    width: 60%;
+    height: auto;
+    padding: 0 20px;
+}
+
+#box54{
+    width: 100%;
+   display: flex;
+    background-color: rgba(137, 43, 226, 0.366);
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.63);
+
+}
+.hti{
+    width: 100%;
+height: 30vh;
+ border-top-right-radius: 10px;
+ border-top-left-radius: 10px;
+}
+.site32{
+    width: 40%;
+    height: auto;
+  margin: 5px 10px;
+  text-align:center;
+  border-radius: 10px;
+  line-height: 13px;
+    background-color: whitesmoke;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.63);
+
+}
+.bvt{
+width: 32%;
+background-color: red;
+border-radius: 5px;
+margin: 8px;
+padding: 10px;
+  border: none;
+  color: white;
+  font-weight: 800;
+}
+.bvt:hover{
+    background-color: navajowhite;
+    color: red
+}
+#grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 3,1fr;
+}
+
+.box17{
+    width: 90%;
+    padding: 10px;
+  margin: 5px 10px;
+  text-align:center;
+  border-radius: 10px;
+  line-height: 13px;
+    background-color: rgba(245, 245, 245, 0.239);
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.63);
+
+}
+
+
+#site65{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.boxsa{
+    width: 23%;
+    margin: 9px 12px;
+    text-align: center;
+    line-height: 16px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.63);
+background-color: rgba(127, 255, 212, 0);
+}
+
+.next{
+    width: 30%;
+    height: 11vh;
+}
+.five{
+    color: red;
+    height: auto;
+}
+
+.grid-container{
+    width: 48%;
+    height: auto;
+    display:grid;
+    margin: 5px;
+    grid-template-columns:repeat(2, 2fr) ;
+}
+.grid-item{
+width: 97%;
+float: right;
+}
+.gadget{
+    width: 100%;
+    height: 30vh;
+    padding: 2px 0px;
+border-radius: 9px;
+}
+#sectan{
+    width: auto;
+    height: auto;
+    display: flex;
+    margin: 20px 0px;
+    background-color:whitesmoke;
+}
+.hect{
+    width: 35%;
+    height: auto;
+    padding: 80px 20px;
+}
+footer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    line-height: 11px;
+    color: rgba(255, 255, 255, 0.371);
+    margin: 30px 0px;
+    background-color: black;
+}
+.foot{
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.text{
+color: rgba(255, 0, 0, 0.612);
+}
+.fa-solid{
+    width: 40px;
+}
+
+@font-face{
+    font-family: myfont;
+    src: url(Barett\ Street.ttf);
+}
+header h1{
+    font-family: myfont;
+    font-size: 70px;
+    padding: 0px 20px;
+    color:red;
+   }
+  .five{
+font-family: myfont;
+font-size: 30px;
+   }
+
+   @media screen and (max-width:500px){
+#head h1{
+    font-size: 19px;
+}
+.hest{
+    display: flex;
+    align-items: center;
+}
+#head .box{
+    width: 100%;
+    display: flex;
+}
+#head .box a{
+  padding: 6px;
+}
+    #head{
+        width: 100%;
+        flex-direction: column;
+    align-items: center;
+    }
+    #head .int22{
+     border-radius: 6px;
+      color: red;
+    }
+
+    #box2{
+        width: 100%;
+        flex-direction: column;
+    }
+#site{
+    width: auto;
+    height: auto;
+    padding: 7px;
+}
+.site3{
+    width: 100%;
+    height: auto;
+    padding: 20px 0px;
+ align-items: center;
+}
+
+#box3{
+    width: 100%;
+    height: auto;
+}
+#san{
+    flex-wrap: wrap;
+    align-items: center;
+    background:linear-gradient(rgba(230, 223, 223, 0.3), rgba(230, 223, 223, 0.3)), url(../asset/image//dog.webp);
+    background-size: cover;
+
+}
+
+.box33{
+    width: 35%;
+    height: auto;
+}
+
+#box44{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+
+}
+#site42{
+    width: 100%;
+    height: auto;
+    background:linear-gradient(rgba(230, 223, 223, 0.3), rgba(230, 223, 223, 0.3)), url(../asset/image//dog.webp);
+    background-size: cover;
+
+}
+
+#grid{
+  flex-direction: column;
+    width: auto;
+    height: auto;
+}
+.box17{
+    width: auto;
+    height: auto;
+}
+.hti{
+    width: 100%;
+    height: auto;
+}
+
+#site65{
+    width: auto;
+    height: auto;
+    flex-wrap: wrap;
+    background:linear-gradient(rgba(230, 223, 223, 0.3), rgba(230, 223, 223, 0.3)), url(../asset/image//dog.webp);
+    background-size: cover;
+
+}
+.boxsa{
+    width: 40%;
+    height: auto;
+    padding: 5px;
+    
+}
+.next{
+    width: 100%;
+    height: auto;
+}
+.grid-container{
+    width: 100%;
+    height: auto;
+}
+
+#sectan{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+}
+#grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 3,1fr;
+}
+.bvt{
+      width: 40%;
+}
+.hect{
+    width: 100%;
+    height: auto;
+    background:linear-gradient(rgba(230, 223, 223, 0.3), rgba(230, 223, 223, 0.3)), url(../asset/image//dog.webp);
+    background-size: cover;
+   
+
+}
+
+footer{
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+}
+.foot{
+    width: 40%;
+    height: auto;
+}
+   }

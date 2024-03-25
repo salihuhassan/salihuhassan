@@ -1,0 +1,258 @@
+header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+   background-color: rgba(245, 222, 179, 0.227);
+}
+.box{
+    width: 30%;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.646);
+    padding: 18px 80px;
+ 
+}
+#site1{
+}
+.fa-solid {
+color: red;
+}
+
+.fa-solid {
+    margin: 0px 5px;
+}
+input{
+    border-radius: 10px;
+    border: 2px solid azure;
+    background-color: azure;
+}
+.box66{
+    width: 15%;
+    height: 26px;
+    margin: 0 160px;
+    border-radius: 10px;
+    background-color: azure;
+}
+.box8{
+    width: 5%;
+    height: 3vh;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: rgba(240, 255, 255, 0.593);
+}
+.box3{
+    color: red;
+}
+#site1{
+    display: flex;
+    width: 100%;
+}
+#xaz{
+    display: flex;
+}
+.box2{
+    text-align: center;
+        padding: 5px 0px;
+    box-shadow: 2px 3px 10px rgba(210, 105, 30, 0.719);
+}
+
+.img2{
+    width: 90%;
+}
+#site2{
+    height: auto;
+}
+#fastas{
+    display: flex;
+
+}
+.paci{
+    width: 52%;
+    height: 20vh;
+margin: 10px 0px;
+    display: flex;
+    background-color: rgba(245, 222, 179, 0.444);
+    box-shadow: 2px 3px 10px black;
+    border-radius: 8px;
+        padding: 5px 0px;
+
+}
+.paci22{
+    width: 35%;
+    height:auto;
+margin: 10px 5px;
+    background-color: rgba(245, 222, 179, 0.434);
+    box-shadow: 2px 3px 10px black;
+    display: flex;
+        border-radius: 8px;
+        padding: 5px 0px;
+
+}
+.gu{
+    width: 100%;
+    padding: 0 2px;
+}
+button{
+    width: 76px;
+}
+button:hover{
+    background-color: rgba(127, 255, 212, 0.646);
+    color: green;
+}
+.pac444{
+    width: 40%;
+    height:20vh;
+    display: flex;
+    background-color: rgba(245, 222, 179, 0.431);
+        box-shadow: 2px 3px 10px black;
+    border-radius: 8px;
+        padding: 5px;
+
+
+}
+.gu22{
+    width: 33vh;
+
+}
+#hood{
+    display: flex;
+}
+#house{
+    display: flex;
+}
+.paci25{
+text-align: center;   
+ width: 16%;
+    height: 31vh;
+    margin: 0px 6px;
+     box-shadow: 2px 3px 10px black;
+    background-color: rgba(245, 222, 179, 0.444);
+    border-radius: 8px;
+        padding: 5px 0px;
+
+}
+.gute{
+    width:20vh;
+    height: 20vh;
+}
+
+@media screen and (max-width:500px){
+header{
+d        width: auto;
+        height: auto;
+        flex-wrap: wrap;
+        line-height: 4px;
+        /* background-image: url(../asset/image/homu.jpeg); */
+}
+.box{
+    width: 30%;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.646);
+    padding: 0px 10px;
+ 
+}
+.fa-solid {
+    color: red;
+    }
+    .box8{
+        width: 5%;
+        height: 3vh;
+        padding: 2px;
+        display: flex;
+        border-radius: 10px;
+        background-color: rgba(240, 255, 255, 0.593);
+    }
+    .fa-solid {
+        margin: 0px 5px;
+    }
+    .box66{
+        width: 19%;
+        height: 6px;
+        border-radius: 10px;
+        background-color: azure;
+    }
+    input{
+        height: 40px;
+        border-radius: 10px;
+        border: 2px solid azure;
+        background-color: azure;
+    }
+.site1{
+    line-height: 11px;
+}
+#xaz{
+    flex-wrap: wrap;
+
+}
+.box2{
+    height: auto;
+    text-align: center;
+    width:50%;
+    
+}
+.img2{
+    width: 80%;
+}
+#site2{
+    width: 100%;
+    height: auto;
+}
+#fastas{
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+}
+.paci{
+    width:45%;
+ margin: 0px 3px;
+ height: auto;
+ flex-direction: column;
+
+}
+.paci22{
+    height: auto;
+    width:48%;
+    margin: 10px auto;
+    flex-direction: column;
+
+}
+.gu{
+   width: 100%; 
+   height: 90%;
+}
+.box28{
+    width: 100%;
+}
+#hood{
+    width: 100%;
+
+}
+#house{
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.pac444{
+    height: auto;
+    text-align: center;
+    width:45%;
+    flex-direction: column;
+
+}
+.paci25{
+    height: auto;
+    text-align: center;
+    width:48%;
+    margin: 5px 3px;
+    flex-direction: column;
+
+}
+.gute{
+    width: 100%; 
+}
+.gu22{
+    width: 100%;   
+}
+}
+
+
